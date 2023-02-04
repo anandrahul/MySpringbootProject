@@ -8,7 +8,9 @@ public class SpringLearningApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringLearningApplication.class, args);
-		System.out.println("Hello Rahul Anand in Your Project  welcome ");
+
+		System.out.println("Hello world from india");
+
 	}
 
 }
